@@ -2,6 +2,11 @@
 
 > An AI-powered, end-to-end OPD insurance claim submission and automated adjudication system built for the Plum intern assignment.
 
+## 🚀 Live Demo
+
+🌐 **Frontend:** https://plum-opd-claim-adjudication-web.vercel.app  
+⚙️ **Backend API:** https://plum-claims-backend-b52y.onrender.com/
+
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)](https://nextjs.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat&logo=postgresql)](https://postgresql.org)
